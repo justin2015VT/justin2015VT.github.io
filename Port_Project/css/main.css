@@ -35,9 +35,11 @@ div.ex1 {
   /* 815px wide and 315px high.   */
   header {
     background-image: url("../images/Port_Zones.jpg");
-    width: 1500px;;
-    padding-top: 200px;
-    height: 1000px;
+    margin: auto;
+    width: 100%;
+    display: block;
+    padding-top: 20px;
+    height: 351px;
     background-repeat: no-repeat;
     background-size: cover;
   }
