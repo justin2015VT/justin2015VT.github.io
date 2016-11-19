@@ -25,7 +25,7 @@
 
   main {
     padding-bottom: 10010px;
-    margin-bottom: 0px;
+    margin-bottom: -100000px;
     float: left;
     width: 100%;
   }
@@ -43,7 +43,7 @@
 
   /* Change the background     */
   /* color of the footer below */
-  footer {
+    footer {
     clear: left;
     width: 100%;
     background: #ccc;
