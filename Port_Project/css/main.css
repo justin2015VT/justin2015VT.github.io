@@ -50,6 +50,7 @@ div.ex1 {
     padding-bottom: 10010px;
     margin-bottom: -10000px;
     float: left;
+    float: right;
     width: 100%;
   }
 
