@@ -17,7 +17,7 @@ div.page {
 /* the centered content here.  */
 div.ex1 {
     width: 851px;
-    margin: auto;
+    margin: 10000;
     float: center;
     border: 6px solid darkgray;
     background-color: #FFFFFF;
