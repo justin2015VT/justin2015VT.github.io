@@ -39,7 +39,6 @@ div.ex1 {
     width: 100%;
     display: block;
     padding-top: 20px;
-    padding-left: 80px;
     height: 351px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -93,6 +92,7 @@ div.ex1 {
 .site-header {
     margin: 0;
     padding-top: 15px;
+    padding-left: 110px;
     font-family: Sans-Serif;
     color: white;
   }
