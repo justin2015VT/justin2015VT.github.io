@@ -34,11 +34,12 @@ div.ex1 {
   /* here. Your image should be   */
   /* 815px wide and 315px high.   */
   header {
-    background-image: url("../images/Port_Zones.jpg");
+    background-image: url("../images/Port-Commons-Zones.jpg");
     margin: auto;
     width: 100%;
     display: block;
     padding-top: 20px;
+    padding-left: 80px;
     height: 351px;
     background-repeat: no-repeat;
     background-size: cover;
