@@ -252,6 +252,10 @@
 		font-size: 50px;
 	}
 
+	.font-color{
+		color: black;
+	}
+
 /* Button */
 
 	input[type="submit"],
