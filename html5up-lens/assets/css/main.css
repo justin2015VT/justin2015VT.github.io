@@ -248,6 +248,10 @@
 		text-align: right;
 	}
 
+	.image-caption{
+		font-size: 50px;
+	}
+
 /* Button */
 
 	input[type="submit"],
