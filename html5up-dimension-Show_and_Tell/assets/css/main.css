@@ -1593,6 +1593,6 @@
 			opacity: 0;
 		}
 
-		.column-left{ float: left; width: 200px; }
-    .column-right{ float: right; width: 100px; }
-    .column-center{ display: inline-block; width: 200px; }
+		.column-left{ float: left; width: 100%; }
+    .column-right{ float: right; width: 100%; }
+    .column-center{ display: inline-block; width: 100%; }
