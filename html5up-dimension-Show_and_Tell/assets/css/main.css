@@ -1593,11 +1593,6 @@
 			opacity: 0;
 		}
 
-		#content {
-  float: left ;
-  width: 300px;
-}
-#navbar {
-  float: right ;
-  width: 300px;
-}
+		.column-left{ float: left; width: 33%; }
+    .column-right{ float: right; width: 33%; }
+    .column-center{ display: inline-block; width: 33%; }
