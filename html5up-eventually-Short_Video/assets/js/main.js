@@ -39,9 +39,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg01.jpg': 'center',
-							'images/bg02.jpg': 'center',
-							'images/bg03.jpg': 'center'
+							'images/Ouside_View_Port.jpg': 'center',
+							'images/Port_Sign.jpg': 'center',
+							'images/Aerial_View.jpg': 'center'
 						},
 
 					// Delay.
