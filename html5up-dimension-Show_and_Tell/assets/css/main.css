@@ -1592,3 +1592,12 @@
 		body.is-loading #footer {
 			opacity: 0;
 		}
+
+		#content {
+  float: left ;
+  width: 300px;
+}
+#navbar {
+  float: right ;
+  width: 300px;
+}
